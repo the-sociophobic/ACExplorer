@@ -6,7 +6,7 @@
 import pyUbiForge.misc
 from plugins import right_click_plugins
 from typing import Union, Dict, List, Tuple
-from PySide2 import QtCore, QtGui, QtWidgets
+from PySide6 import QtCore, QtGui, QtWidgets
 import time
 import os
 import json
